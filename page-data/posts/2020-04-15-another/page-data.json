@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-page-js","path":"/posts/2020-04-15-another/","result":{"data":{"markdownRemark":{"html":"<p>Mid april update..</p>","frontmatter":{"title":"Welp"}}},"pageContext":{"slug":"posts/2020-04-15-another/"}}}
+{"componentChunkName":"component---src-templates-page-js","path":"/posts/2020-04-15-another/","result":{"data":{"markdownRemark":{"html":"<p>Mid april update..</p>","frontmatter":{"title":"Welp"}}},"pageContext":{"slug":"/posts/2020-04-15-another/"}}}
